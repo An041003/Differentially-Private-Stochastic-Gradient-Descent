@@ -1,0 +1,13 @@
+# Local environments and Python cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# Generated distribution archives and notebook checkpoints
+dist/
+.ipynb_checkpoints/
+*.zip
+
+# Superseded duplicate/legacy experiment materials
+adult/
+outputs/

@@ -1,0 +1,17 @@
+{
+  "device": "cpu",
+  "metadata": {
+    "dataset": "UCI Adult",
+    "num_train_samples": 30162,
+    "num_test_samples": 15060,
+    "num_features": 104,
+    "target_mapping": {
+      "<=50K": 0,
+      ">50K": 1
+    },
+    "missing_value_strategy": "drop_rows",
+    "categorical_encoding": "one_hot",
+    "numeric_scaling": "train_standardization",
+    "split_strategy": "original_adult_train_test_files"
+  }
+}

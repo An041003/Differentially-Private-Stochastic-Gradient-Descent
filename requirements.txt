@@ -1,0 +1,12 @@
+torch
+pandas
+scikit-learn
+matplotlib
+opacus
+nbformat
+ipykernel
+python-docx
+python-pptx
+xgboost
+lightgbm
+catboost

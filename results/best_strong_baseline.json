@@ -1,0 +1,28 @@
+{
+  "model_name": "hgb_lr0.08_leaf15_l20.01",
+  "threshold": 0.37999999999999995,
+  "validation_f1_at_threshold": 0.727802981205444,
+  "default_accuracy": 0.8680610889774236,
+  "default_precision": 0.7707872273158394,
+  "default_recall": 0.658918918918919,
+  "default_f1_score": 0.7104764680169022,
+  "accuracy": 0.8585657370517928,
+  "precision": 0.6959560659011482,
+  "recall": 0.7535135135135135,
+  "f1_score": 0.7235920062289125,
+  "roc_auc": 0.9253115245527217,
+  "pr_auc": 0.8267240308957475,
+  "confusion_matrix": [
+    [
+      10142,
+      1218
+    ],
+    [
+      912,
+      2788
+    ]
+  ],
+  "training_time": 1.4404568672180176,
+  "threshold_source": "train_validation_split",
+  "status": "ok"
+}

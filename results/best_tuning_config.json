@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "noise_multiplier": 1.5,
+  "max_grad_norm": 2.0,
+  "batch_size": 512,
+  "epochs": 20,
+  "learning_rate": 0.08,
+  "schedule": "cosine",
+  "delta": 1e-05,
+  "epsilon": 1.7990588844220654,
+  "accuracy": 0.8531208499335989,
+  "precision": 0.7511816340310601,
+  "recall": 0.6013513513513513,
+  "f1_score": 0.6679675773041128,
+  "confusion_matrix": [
+    [
+      10623,
+      737
+    ],
+    [
+      1475,
+      2225
+    ]
+  ],
+  "roc_auc": 0.9072082104111153,
+  "pr_auc": 0.7781973279751243,
+  "training_time": 19.47454047203064,
+  "device": "cuda",
+  "peak_memory_mb": 133.126953125,
+  "status": "ok",
+  "notes": ""
+}
