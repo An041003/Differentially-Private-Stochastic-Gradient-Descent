@@ -11,3 +11,12 @@ dist/
 # Superseded duplicate/legacy experiment materials
 adult/
 outputs/
+
+# Local deliverables and documentation kept outside the source repository
+docs/
+figures/
+report/
+results/
+slides/
+*.md
+!README.md
